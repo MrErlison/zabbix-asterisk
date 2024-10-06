@@ -1,3 +1,5 @@
+![Build](https://github.com/MrErlison/zabbix-asterisk/actions/workflows/docker-image.yml/badge.svg)
+
 ## Zabbix e Asterisk
 
 Os arquivos yaml do Zabbix foram obtidos no [repositório oficial](https://github.com/zabbix/zabbix-docker)
